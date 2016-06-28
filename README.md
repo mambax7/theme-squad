@@ -1,6 +1,8 @@
 # Squad Bootstrap Theme
 =====
 
+![Theme Preview](/theme_preview.png)
+
 Squad is a free Bootstrap template from BootstrapTaste for creatives, with a simple and modern layout. Nice CSS3 animation added on each section scroll and navigation. This template uses wow.js animation script to animate section elements. Ported for XOOPS CMS.
 
 NOTE: You will need to add in the function "eventCoreHeaderAddmeta" in \modules\system\preloads\core.php following code:
